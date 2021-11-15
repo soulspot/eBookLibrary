@@ -60,13 +60,13 @@ const Sdata =[
         text:"By Brian W. Kernighan and Dennis M. Ritchie.  Published by Prentice-Hall in 1988",
         imgSrc:"https://upload.wikimedia.org/wikipedia/commons/0/0e/The_C_Programming_Language%2C_First_Edition_Cover.svg",
         btnLink:"https://drive.google.com/file/d/1xJ8tPs1seGwWvKDoiIiw7-yCIGdWLFH7/preview"
-    },
-    {
-        title:"OBJECT ORIENTED PROGRAMING",
-        text:"The book aims at providing an all-round enrichment of knowledge in the area of object-oriented programming with C++ as the implementation of language.",
-        imgSrc:"https://m.media-amazon.com/images/I/51N4A59EAiL.jpg",
-        btnLink:"https://drive.google.com/file/d/1kZNV-Huy78dsYwZ80B2iVBIS_GnPxNeB/preview"
     }
+    // {
+    //     title:"OBJECT ORIENTED PROGRAMING",
+    //     text:"The book aims at providing an all-round enrichment of knowledge in the area of object-oriented programming with C++ as the implementation of language.",
+    //     imgSrc:"https://m.media-amazon.com/images/I/51N4A59EAiL.jpg",
+    //     btnLink:"https://drive.google.com/file/d/1kZNV-Huy78dsYwZ80B2iVBIS_GnPxNeB/preview"
+    // }
     
 ]
 export default Sdata
